@@ -14,6 +14,7 @@ User folder
 - projects
 - Google 雲端硬碟
 - Documents
+    - HAV
 - Downloads
 - Desktop
 ```
@@ -21,7 +22,9 @@ User folder
 projects folder
 
 ```yaml
+- music
 - go_project
+- system_monitoring
 - ...
 ```
 
