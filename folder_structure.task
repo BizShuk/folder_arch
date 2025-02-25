@@ -1,0 +1,78 @@
+Projects:
+    music: 
+        All Music store
+    go_project:
+        Go Root
+    Default:
+        ☐ Anything not falling in a category
+        ☐ Daily, TODO, trips, note, game
+    Algo:
+        ☐ All about algorithm
+        ☐ Interview algo
+    TechStack:
+        ☐ CS concept
+        ☐ programming language test/example
+        ☐ design pattern
+        ☐ architecture
+        ☐ script
+        ☐ System Design
+        Management:
+            ☐ Leadership
+            ☐ Management
+    Resume:
+        ☐ About interview
+        ☐ Certificate
+        ☐ Behavior Question
+        ☐ Career Roadmap
+        ☐ past experience detail => [TechStack] project
+        ☐ Interview company note => [interview folder]
+        ☐ Interview algo => [Algo] project
+        ☐ Resume
+        ☐ Summary of career => [archievement.todo]
+
+Google 雲端硬碟:
+    applications:
+        各種申請 打工度假/簽證
+    book:
+        pdf
+    game:
+    journey:
+        工作/階段性
+    note:
+        隨手筆記/blog
+    personal:
+        family:
+        health:
+        IDinfo:
+        IDphoto:
+        通訊錄;
+        README.md
+
+    public:
+        Configuration:
+            各種設定
+    Receipts:
+        收據
+    s
+
+Tech Projects:
+    env_setup:
+        ☐ Mac/Linux configuration
+    FileOp:
+        ☐ any about file operations
+    ProjectPlan:
+        ☐ Project ideas
+
+    EventBus:
+    AWS Lambda:
+
+Home:
+    bin:
+    lib:
+    logs:
+    projects:
+    Google 雲端硬碟:
+    Documents:
+    Downloads:
+    Desktop:
+    
